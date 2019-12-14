@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizApplication.Logic", "QuizApplication.Logic\QuizApplication.Logic.csproj", "{E5903761-118D-4C3E-99B2-43596A2C4C19}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2F2836ED-93AF-4EEB-B83B-0BDFB2B3D335} = {2F2836ED-93AF-4EEB-B83B-0BDFB2B3D335}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizApplication.UI", "QuizApplication.UI\QuizApplication.UI.csproj", "{91880759-C004-4298-95D8-27CD9E083E38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizApplication.Function", "QuizApplication.Function\QuizApplication.Function.csproj", "{2F2836ED-93AF-4EEB-B83B-0BDFB2B3D335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5903761-118D-4C3E-99B2-43596A2C4C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5903761-118D-4C3E-99B2-43596A2C4C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5903761-118D-4C3E-99B2-43596A2C4C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5903761-118D-4C3E-99B2-43596A2C4C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91880759-C004-4298-95D8-27CD9E083E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91880759-C004-4298-95D8-27CD9E083E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91880759-C004-4298-95D8-27CD9E083E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91880759-C004-4298-95D8-27CD9E083E38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F2836ED-93AF-4EEB-B83B-0BDFB2B3D335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2836ED-93AF-4EEB-B83B-0BDFB2B3D335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2836ED-93AF-4EEB-B83B-0BDFB2B3D335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2836ED-93AF-4EEB-B83B-0BDFB2B3D335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C8001FB-12E8-4BAB-B174-A2EACD63E562}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

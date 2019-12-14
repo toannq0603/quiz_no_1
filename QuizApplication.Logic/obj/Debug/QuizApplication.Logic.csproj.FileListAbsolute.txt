@@ -1,0 +1,89 @@
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.Logic\bin\Debug\Data\level1.xml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.Logic\bin\Debug\Data\level2.xml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.Logic\bin\Debug\Data\level3.xml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.Logic\bin\Debug\Data\level4.xml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.Logic\bin\Debug\Data\level5.xml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.Logic\bin\Debug\QuizApplication.Logic.dll
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.Logic\bin\Debug\QuizApplication.Logic.pdb
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.Logic\bin\Debug\ControlzEx.dll
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.Logic\bin\Debug\MahApps.Metro.dll
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.Logic\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.Logic\bin\Debug\ControlzEx.pdb
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.Logic\bin\Debug\MahApps.Metro.pdb
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.Logic\bin\Debug\MahApps.Metro.xml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.Logic\obj\Debug\QuizApplication.Logic.csproj.CopyComplete
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.Logic\obj\Debug\QuizApplication.Logic.dll
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.Logic\obj\Debug\QuizApplication.Logic.pdb
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\Data\level1.xml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\Data\level2.xml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\Data\level3.xml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\Data\level4.xml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\Data\level5.xml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\QuizApplication.Logic.dll
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\QuizApplication.Logic.pdb
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\ControlzEx.dll
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\MahApps.Metro.dll
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\ControlzEx.pdb
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\MahApps.Metro.pdb
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\MahApps.Metro.xml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.Logic\obj\Debug\QuizApplication.Logic.csproj.CopyComplete
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.Logic\obj\Debug\QuizApplication.Logic.dll
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.Logic\obj\Debug\QuizApplication.Logic.pdb
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.Logic\obj\Debug\QuizApplication.Logic.csprojAssemblyReference.cache
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\Data\level1.xml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\Data\level2.xml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\Data\level3.xml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\Data\level4.xml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\Data\level5.xml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\QuizApplication.Logic.dll
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\QuizApplication.Logic.pdb
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\ControlzEx.dll
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\MahApps.Metro.dll
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\ControlzEx.pdb
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\MahApps.Metro.pdb
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.Logic\bin\Debug\MahApps.Metro.xml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.Logic\obj\Debug\QuizApplication.Logic.csproj.CopyComplete
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.Logic\obj\Debug\QuizApplication.Logic.dll
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.Logic\obj\Debug\QuizApplication.Logic.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.Logic\bin\Debug\Data\level1.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.Logic\bin\Debug\Data\level2.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.Logic\bin\Debug\Data\level3.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.Logic\bin\Debug\Data\level4.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.Logic\bin\Debug\Data\level5.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.Logic\bin\Debug\QuizApplication.Logic.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.Logic\bin\Debug\QuizApplication.Logic.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.Logic\bin\Debug\ControlzEx.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.Logic\bin\Debug\MahApps.Metro.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.Logic\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.Logic\bin\Debug\ControlzEx.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.Logic\bin\Debug\MahApps.Metro.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.Logic\bin\Debug\MahApps.Metro.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.Logic\obj\Debug\QuizApplication.Logic.csprojAssemblyReference.cache
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.Logic\obj\Debug\QuizApplication.Logic.csproj.CopyComplete
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.Logic\obj\Debug\QuizApplication.Logic.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.Logic\obj\Debug\QuizApplication.Logic.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\bin\Debug\Data\level1.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\bin\Debug\Data\level2.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\bin\Debug\Data\level3.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\bin\Debug\Data\level4.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\bin\Debug\Data\level5.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\bin\Debug\QuizApplication.Logic.dll.config
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\bin\Debug\QuizApplication.Logic.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\bin\Debug\QuizApplication.Logic.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\bin\Debug\ControlzEx.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\bin\Debug\EntityFramework.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\bin\Debug\MahApps.Metro.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\bin\Debug\ControlzEx.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\bin\Debug\EntityFramework.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\bin\Debug\MahApps.Metro.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\bin\Debug\MahApps.Metro.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\obj\Debug\QuizApplication.Logic.csproj.ResolveComReference.cache
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\obj\Debug\QuizApplication.Logic.csproj.CopyComplete
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\obj\Debug\QuizApplication.Logic.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\obj\Debug\QuizApplication.Logic.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Logic\obj\Debug\QuizApplication.Logic.csprojAssemblyReference.cache

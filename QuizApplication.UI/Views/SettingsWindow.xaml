@@ -1,0 +1,25 @@
+﻿<Controls:MetroWindow
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+    x:Class="QuizApplication.UI.Views.SettingsWindow"
+        mc:Ignorable="d"
+        GlowBrush="{DynamicResource AccentColorBrush}"
+        Title="Change Question" Height="195.205" Width="500" Icon="/Image/Icon 2.png" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" IsCloseButtonEnabled="False" ShowCloseButton="False">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="9*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel  Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Center">
+            <Button FontSize="12" Margin="10" MinHeight="30" MinWidth="80" Content="Ok" Command="{Binding AcceptSettingsCommand}" Click="Button_Click" IsDefault="True" IsCancel="True" />
+        </StackPanel>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Center" Margin="10,10,0,0" TextWrapping="Wrap" Text="Number of questions to ask:" VerticalAlignment="Top" FontSize="16"/>
+        <Controls:NumericUpDown TextAlignment="Center" MinWidth="200" Maximum="25" Minimum="5" VerticalAlignment="Center" HorizontalAlignment="Center" HasDecimals="False" Value="{Binding NumberOfQuestions}" FontSize="18.667" Grid.Row="1" />
+
+    </Grid>
+</Controls:MetroWindow>

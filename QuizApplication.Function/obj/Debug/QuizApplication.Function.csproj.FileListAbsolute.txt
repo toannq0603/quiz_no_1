@@ -1,0 +1,74 @@
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.MVVM\bin\Debug\QuizApplication.MVVM.dll
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.MVVM\bin\Debug\QuizApplication.MVVM.pdb
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.MVVM\bin\Debug\ControlzEx.dll
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.MVVM\bin\Debug\MahApps.Metro.dll
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.MVVM\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.MVVM\bin\Debug\ControlzEx.pdb
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.MVVM\bin\Debug\MahApps.Metro.pdb
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.MVVM\bin\Debug\MahApps.Metro.xml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.MVVM\obj\Debug\QuizApplication.MVVM.csproj.CopyComplete
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.MVVM\obj\Debug\QuizApplication.MVVM.dll
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.MVVM\obj\Debug\QuizApplication.MVVM.pdb
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.MVVM\bin\Debug\QuizApplication.MVVM.dll
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.MVVM\bin\Debug\QuizApplication.MVVM.pdb
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.MVVM\bin\Debug\ControlzEx.dll
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.MVVM\bin\Debug\MahApps.Metro.dll
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.MVVM\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.MVVM\bin\Debug\ControlzEx.pdb
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.MVVM\bin\Debug\MahApps.Metro.pdb
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.MVVM\bin\Debug\MahApps.Metro.xml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.MVVM\obj\Debug\QuizApplication.MVVM.csproj.CopyComplete
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.MVVM\obj\Debug\QuizApplication.MVVM.dll
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.MVVM\obj\Debug\QuizApplication.MVVM.pdb
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.MVVM\bin\Debug\QuizApplication.MVVM.dll
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.MVVM\bin\Debug\QuizApplication.MVVM.pdb
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.MVVM\bin\Debug\ControlzEx.dll
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.MVVM\bin\Debug\MahApps.Metro.dll
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.MVVM\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.MVVM\bin\Debug\ControlzEx.pdb
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.MVVM\bin\Debug\MahApps.Metro.pdb
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.MVVM\bin\Debug\MahApps.Metro.xml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.MVVM\obj\Debug\QuizApplication.MVVM.csproj.CopyComplete
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.MVVM\obj\Debug\QuizApplication.MVVM.dll
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.MVVM\obj\Debug\QuizApplication.MVVM.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.MVVM\bin\Debug\QuizApplication.MVVM.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.MVVM\bin\Debug\QuizApplication.MVVM.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.MVVM\bin\Debug\ControlzEx.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.MVVM\bin\Debug\MahApps.Metro.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.MVVM\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.MVVM\bin\Debug\ControlzEx.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.MVVM\bin\Debug\MahApps.Metro.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.MVVM\bin\Debug\MahApps.Metro.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.MVVM\obj\Debug\QuizApplication.MVVM.csprojAssemblyReference.cache
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.MVVM\obj\Debug\QuizApplication.MVVM.csproj.CopyComplete
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.MVVM\obj\Debug\QuizApplication.MVVM.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.MVVM\obj\Debug\QuizApplication.MVVM.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.MVVM\bin\Debug\QuizApplication.MVVM.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.MVVM\bin\Debug\QuizApplication.MVVM.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.MVVM\bin\Debug\ControlzEx.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.MVVM\bin\Debug\MahApps.Metro.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.MVVM\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.MVVM\bin\Debug\ControlzEx.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.MVVM\bin\Debug\MahApps.Metro.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.MVVM\bin\Debug\MahApps.Metro.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.MVVM\obj\Debug\QuizApplication.MVVM.csprojAssemblyReference.cache
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.MVVM\obj\Debug\QuizApplication.MVVM.csproj.CopyComplete
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.MVVM\obj\Debug\QuizApplication.MVVM.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.MVVM\obj\Debug\QuizApplication.MVVM.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Function\bin\Debug\QuizApplication.Function.dll.config
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Function\bin\Debug\QuizApplication.Function.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Function\bin\Debug\QuizApplication.Function.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Function\bin\Debug\ControlzEx.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Function\bin\Debug\EntityFramework.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Function\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Function\bin\Debug\MahApps.Metro.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Function\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Function\bin\Debug\ControlzEx.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Function\bin\Debug\EntityFramework.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Function\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Function\bin\Debug\MahApps.Metro.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Function\bin\Debug\MahApps.Metro.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Function\obj\Debug\QuizApplication.Function.csprojAssemblyReference.cache
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Function\obj\Debug\QuizApplication.Function.csproj.CopyComplete
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Function\obj\Debug\QuizApplication.Function.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.Function\obj\Debug\QuizApplication.Function.pdb

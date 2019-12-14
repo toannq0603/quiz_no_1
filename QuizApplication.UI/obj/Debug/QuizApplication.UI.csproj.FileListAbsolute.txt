@@ -1,0 +1,247 @@
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\bin\Debug\Data\level1.xml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\bin\Debug\Data\level2.xml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\bin\Debug\Data\level3.xml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\bin\Debug\Data\level4.xml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\bin\Debug\Data\level5.xml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\bin\Debug\QuizApplication.UI.exe
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\bin\Debug\QuizApplication.UI.pdb
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\bin\Debug\ControlzEx.dll
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\bin\Debug\MahApps.Metro.dll
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\bin\Debug\QuizApplication.Logic.dll
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\bin\Debug\QuizApplication.MVVM.dll
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\bin\Debug\QuizApplication.Logic.pdb
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\bin\Debug\QuizApplication.MVVM.pdb
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\bin\Debug\ControlzEx.pdb
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\bin\Debug\MahApps.Metro.pdb
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\bin\Debug\MahApps.Metro.xml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\QuizApplication.UI.csprojAssemblyReference.cache
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\Views\FormPage.baml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\Views\SettingsWindow.baml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\Views\WelcomePage.baml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\App.baml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\MainWindow.g.cs
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\Views\AnswersSection.g.cs
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\Views\FormPage.g.cs
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\Views\MoreInfoPage.g.cs
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\Views\FinishPage.g.cs
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\Views\QuizPage.g.cs
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\Views\SettingsWindow.g.cs
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\Views\StatsSection.g.cs
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\Views\WelcomePage.g.cs
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\App.g.cs
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\QuizApplication.UI_MarkupCompile.cache
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\QuizApplication.UI_MarkupCompile.lref
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\MainWindow.baml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\Views\AnswersSection.baml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\Views\MoreInfoPage.baml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\Views\FinishPage.baml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\Views\QuizPage.baml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\Views\StatsSection.baml
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\QuizApplication.UI.g.resources
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\QuizApplication.UI.Properties.Resources.resources
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\QuizApplication.UI.Strings.resources
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\QuizApplication.UI.csproj.GenerateResource.cache
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\QuizApplication.UI.csproj.CopyComplete
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\QuizApplication.UI.exe
+C:\Users\LAptop\Desktop\nergiz-quiz-1.4\NergizQuiz\NergizQuiz.UI\obj\Debug\QuizApplication.UI.pdb
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\Data\level1.xml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\Data\level2.xml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\Data\level3.xml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\Data\level4.xml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\Data\level5.xml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\QuizApplication.UI.exe
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\QuizApplication.UI.pdb
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\ControlzEx.dll
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\MahApps.Metro.dll
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\QuizApplication.Logic.dll
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\QuizApplication.MVVM.dll
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\QuizApplication.Logic.pdb
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\QuizApplication.MVVM.pdb
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\ControlzEx.pdb
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\MahApps.Metro.pdb
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\MahApps.Metro.xml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.csprojAssemblyReference.cache
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\FormPage.baml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\SettingsWindow.baml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\WelcomePage.baml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\App.baml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\MainWindow.g.cs
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\AnswersSection.g.cs
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\FormPage.g.cs
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\MoreInfoPage.g.cs
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\FinishPage.g.cs
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\QuizPage.g.cs
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\SettingsWindow.g.cs
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\StatsSection.g.cs
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\WelcomePage.g.cs
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\App.g.cs
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI_MarkupCompile.cache
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI_MarkupCompile.lref
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\MainWindow.baml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\AnswersSection.baml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\MoreInfoPage.baml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\FinishPage.baml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\QuizPage.baml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\StatsSection.baml
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.g.resources
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.Properties.Resources.resources
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.Strings.resources
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.csproj.GenerateResource.cache
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.csproj.CopyComplete
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.exe
+C:\Users\LAptop\Desktop\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.pdb
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\Data\level1.xml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\Data\level2.xml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\Data\level3.xml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\Data\level4.xml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\Data\level5.xml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\QuizApplication.UI.exe
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\QuizApplication.UI.pdb
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\ControlzEx.dll
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\MahApps.Metro.dll
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\QuizApplication.Logic.dll
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\QuizApplication.MVVM.dll
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\QuizApplication.Logic.pdb
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\QuizApplication.MVVM.pdb
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\ControlzEx.pdb
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\MahApps.Metro.pdb
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\bin\Debug\MahApps.Metro.xml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.csprojAssemblyReference.cache
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\FormPage.baml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\SettingsWindow.baml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\WelcomePage.baml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\App.baml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\MainWindow.g.cs
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\AnswersSection.g.cs
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\FormPage.g.cs
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\MoreInfoPage.g.cs
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\FinishPage.g.cs
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\QuizPage.g.cs
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\SettingsWindow.g.cs
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\StatsSection.g.cs
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\WelcomePage.g.cs
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\App.g.cs
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI_MarkupCompile.cache
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI_MarkupCompile.lref
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\MainWindow.baml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\AnswersSection.baml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\MoreInfoPage.baml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\FinishPage.baml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\QuizPage.baml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\Views\StatsSection.baml
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.g.resources
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.Properties.Resources.resources
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.Strings.resources
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.csproj.GenerateResource.cache
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.csproj.CopyComplete
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.exe
+C:\Users\LAptop\Downloads\QuizApplication C#\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\bin\Debug\Data\level1.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\bin\Debug\Data\level2.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\bin\Debug\Data\level3.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\bin\Debug\Data\level4.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\bin\Debug\Data\level5.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\bin\Debug\QuizApplication.UI.exe
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\bin\Debug\QuizApplication.UI.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\bin\Debug\ControlzEx.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\bin\Debug\MahApps.Metro.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\bin\Debug\QuizApplication.Logic.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\bin\Debug\QuizApplication.MVVM.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\bin\Debug\QuizApplication.Logic.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\bin\Debug\QuizApplication.MVVM.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\bin\Debug\ControlzEx.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\bin\Debug\MahApps.Metro.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\bin\Debug\MahApps.Metro.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.csprojAssemblyReference.cache
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\Views\FormPage.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\Views\SettingsWindow.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\Views\WelcomePage.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\App.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\MainWindow.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\Views\AnswersSection.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\Views\FormPage.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\Views\MoreInfoPage.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\Views\FinishPage.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\Views\QuizPage.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\Views\SettingsWindow.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\Views\StatsSection.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\Views\WelcomePage.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\App.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI_MarkupCompile.cache
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI_MarkupCompile.lref
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\MainWindow.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\Views\AnswersSection.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\Views\MoreInfoPage.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\Views\FinishPage.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\Views\QuizPage.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\Views\StatsSection.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.g.resources
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.Properties.Resources.resources
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.Strings.resources
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.csproj.GenerateResource.cache
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.csproj.CopyComplete
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.exe
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication\QuizApplication.UI\obj\Debug\QuizApplication.UI.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\Data\level1.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\Data\level2.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\Data\level3.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\Data\level4.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\Data\level5.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\QuizApplication.UI.exe.config
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\QuizApplication.UI.exe
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\QuizApplication.UI.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\ControlzEx.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\EntityFramework.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\MahApps.Metro.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\QuizApplication.Function.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\QuizApplication.Logic.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\QuizApplication.Function.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\QuizApplication.Function.dll.config
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\QuizApplication.Logic.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\QuizApplication.Logic.dll.config
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\ControlzEx.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\EntityFramework.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\MahApps.Metro.pdb
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\bin\Debug\MahApps.Metro.xml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\QuizApplication.UI.csprojAssemblyReference.cache
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\Views\FormPage.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\Views\SettingsWindow.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\Views\WelcomePage.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\App.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\MainWindow.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\Views\AnswersSection.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\Views\FormPage.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\Views\MoreInfoPage.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\Views\FinishPage.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\Views\QuizPage.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\Views\SettingsWindow.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\Views\StatsSection.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\Views\WelcomePage.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\App.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\QuizApplication.UI_MarkupCompile.cache
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\QuizApplication.UI_MarkupCompile.lref
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\MainWindow.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\Views\AnswersSection.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\Views\MoreInfoPage.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\Views\FinishPage.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\Views\QuizPage.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\Views\StatsSection.baml
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\QuizApplication.UI.g.resources
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\QuizApplication.UI.Properties.Resources.resources
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\QuizApplication.UI.Strings.resources
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\QuizApplication.UI.csproj.GenerateResource.cache
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\QuizApplication.UI.csproj.CopyComplete
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\QuizApplication.UI.exe
+C:\Users\LAptop\source\repos\Quiz_Application_OJT\QuizApplication.UI\obj\Debug\QuizApplication.UI.pdb
